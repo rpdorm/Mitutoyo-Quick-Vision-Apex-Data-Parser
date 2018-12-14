@@ -1,0 +1,210 @@
+
+        Elemento           Atual         Nominal          Desvio        Tol.sup.        Tol.inf.        De./Fora
+                                                       (Desv TP)        (Tol.TP)                                
+Distância: Distância-2-1-1(ID:9) entre Ponto-2(ID:8) e Ponto-1(ID:7)
+           DX =        15,006443                                                                                
+
+Distância: Distância-2-1-2(ID:12) entre Ponto-6(ID:10) e Ponto-1(ID:7)
+           DX =        15,006713                                                                                
+
+Distância: Distância-2-1-3(ID:13) entre Ponto-7(ID:11) e Ponto-1(ID:7)
+           DX =        15,005380                                                                                
+
+Distância: Distância-2-2-1(ID:16) entre Ponto-4(ID:14) e Ponto-5(ID:15)
+           DX =        14,967431                                                                                
+
+Distância: Distância-2-2-2(ID:19) entre Ponto-4(ID:14) e Ponto-9(ID:17)
+           DX =        14,969541                                                                                
+
+Distância: Distância-2-2-3(ID:20) entre Ponto-4(ID:14) e Ponto-10(ID:18)
+           DX =        14,969411                                                                                
+
+Círculo: Círculo-3-1-1(ID:21, De 6 Pts.) 
+         Raio =        14,388559                                                                                
+
+Círculo: Círculo-3-2-1(ID:22, De 26 Pts.) 
+         Raio =        16,355883                                                                                
+
+Círculo: Círculo-3-2-2(ID:23, De 6 Pts.) 
+         Raio =        13,279015                                                                                
+
+Círculo: Círculo-3-2-3(ID:24, De 3 Pts.) 
+         Raio =         8,501574                                                                                
+
+Círculo: Círculo-3-1-2(ID:25, De 7 Pts.) 
+         Raio =        14,401545                                                                                
+
+Círculo: Círculo-3-1-3(ID:26, De 9 Pts.) 
+         Raio =        13,983781                                                                                
+
+Distância: Distância-4-1-1(ID:29) entre Linha-10(ID:28) e Ponto-14(ID:27)
+           LC =         6,479692                                                                                
+
+Distância: Distância-4-1-2(ID:32) entre Linha-11(ID:30) e Ponto-14(ID:27)
+           LC =         6,480673                                                                                
+
+Distância: Distância-4-1-3(ID:33) entre Linha-12(ID:31) e Ponto-14(ID:27)
+           LC =         6,478920                                                                                
+
+Distância: Distância-4-2-1(ID:36) entre Linha-13(ID:35) e Ponto-15(ID:34)
+           LC =         6,440609                                                                                
+
+Distância: Distância-4-2-2(ID:39) entre Linha-14(ID:37) e Ponto-15(ID:34)
+           LC =         6,440737                                                                                
+
+Distância: Distância-4-2-3(ID:40) entre Linha-15(ID:38) e Ponto-15(ID:34)
+           LC =         6,440686                                                                                
+
+Distância: Distância-5-1-1(ID:45) entre Ponto-16(ID:44) e Linhamédia-1(ID:43)
+           LC =         0,603237                                                                                
+
+Distância: Distância-5-1-2(ID:48) entre Ponto-17(ID:46) e Linhamédia-1(ID:43)
+           LC =         0,603245                                                                                
+
+Distância: Distância-5-1-3(ID:49) entre Ponto-18(ID:47) e Linhamédia-1(ID:43)
+           LC =         0,603246                                                                                
+
+Distância: Distância-5-2-1(ID:53) entre Ponto-21(ID:52) e Linhamédia-1(ID:43)
+           LC =         0,589005                                                                                
+
+Distância: Distância-5-2-2(ID:54) entre Ponto-20(ID:51) e Linhamédia-1(ID:43)
+           LC =         0,588916                                                                                
+
+Distância: Distância-5-2-3(ID:55) entre Ponto-19(ID:50) e Linhamédia-1(ID:43)
+           LC =         0,590520                                                                                
+
+Círculo: Círculo-6-1-1(ID:56, De 3 Pts.) 
+         Raio =         6,731262                                                                                
+
+Círculo: Círculo-6-1-2(ID:57, De 3 Pts.) 
+         Raio =         6,131219                                                                                
+
+Círculo: Círculo-6-1-3(ID:58, De 3 Pts.) 
+         Raio =         5,990895                                                                                
+
+Círculo: Círculo-6-2-1(ID:59, De 3 Pts.) 
+         Raio =         3,226197                                                                                
+
+Círculo: Círculo-6-2-2(ID:60, De 3 Pts.) 
+         Raio =         5,147690                                                                                
+
+Círculo: Círculo-6-2-3(ID:61, De 3 Pts.) 
+         Raio =         5,841083                                                                                
+
+Círculo: Círculo-6-3-1(ID:62, De 3 Pts.) 
+         Raio =         6,000981                                                                                
+
+Círculo: Círculo-6-3-2(ID:63, De 3 Pts.) 
+         Raio =         6,021485                                                                                
+
+Círculo: Círculo-6-3-3(ID:64, De 3 Pts.) 
+         Raio =         6,009527                                                                                
+
+Círculo: Círculo-6-4-1(ID:65, De 3 Pts.) 
+         Raio =         6,071055                                                                                
+
+Círculo: Círculo-6-4-2(ID:66, De 3 Pts.) 
+         Raio =         5,136734                                                                                
+
+Círculo: Círculo-6-4-3(ID:67, De 4 Pts.) 
+         Raio =         6,447329                                                                                
+
+Distância: Distância-7-1-1(ID:80) entre Pontomédio-1(ID:70) e Pontomédio-2(ID:73)
+           DX =         5,493236                                                                                
+
+Distância: Distância-7-1-2(ID:81) entre Pontomédio-1(ID:70) e Pontomédio-3(ID:76)
+           DX =         5,494922                                                                                
+
+Distância: Distância-7-1-3(ID:82) entre Pontomédio-1(ID:70) e Pontomédio-4(ID:79)
+           DX =         5,492534                                                                                
+
+Distância: Distância-7-2-1(ID:95) entre Pontomédio-6(ID:88) e Pontomédio-5(ID:85)
+           DX =         5,478507                                                                                
+
+Distância: Distância-7-2-2(ID:96) entre Pontomédio-7(ID:91) e Pontomédio-5(ID:85)
+           DX =         5,479205                                                                                
+
+Distância: Distância-7-2-3(ID:97) entre Pontomédio-8(ID:94) e Pontomédio-5(ID:85)
+           DX =         5,479181                                                                                
+
+Distância: Distância-9-1(ID:100) entre Ponto-40(ID:99) e Linha-20(ID:98)
+           LC =        26,139236                                                                                
+
+Distância: Distância-9-2(ID:103) entre Ponto-41(ID:101) e Linha-20(ID:98)
+           LC =        26,139192                                                                                
+
+Distância: Distância-9-3(ID:104) entre Ponto-42(ID:102) e Linha-20(ID:98)
+           LC =        26,139192                                                                                
+
+Distância: Distância-10-1(ID:109) entre Ponto-47(ID:106) e Linha-21(ID:105)
+           LC =         2,252108                                                                                
+
+Distância: Distância-10-2(ID:110) entre Ponto-48(ID:107) e Linha-21(ID:105)
+           LC =         2,254529                                                                                
+
+Distância: Distância-10-3(ID:111) entre Ponto-49(ID:108) e Linha-21(ID:105)
+           LC =         2,248588                                                                                
+
+Distância: Distância-11-1(ID:116) entre Linha-25(ID:113) e Ponto-50(ID:112)
+           LC =         1,545107                                                                                
+
+Distância: Distância-11-2(ID:117) entre Linha-26(ID:114) e Ponto-50(ID:112)
+           LC =         1,545054                                                                                
+
+Distância: Distância-11-3(ID:118) entre Linha-27(ID:115) e Ponto-50(ID:112)
+           LC =         1,545116                                                                                
+
+Distância: Distância-12-1(ID:122) entre Linha-28(ID:119) e Ponto-50(ID:112)
+           LC =         5,090793                                                                                
+
+Distância: Distância-12-2(ID:123) entre Linha-29(ID:120) e Ponto-50(ID:112)
+           LC =         5,091897                                                                                
+
+Distância: Distância-12-3(ID:124) entre Linha-30(ID:121) e Ponto-50(ID:112)
+           LC =         5,093334                                                                                
+
+Distância: Distância-13-1(ID:129) entre Linha-31(ID:126) e Ponto-54(ID:125)
+           LC =        34,934183                                                                                
+
+Distância: Distância-13-2(ID:130) entre Linha-32(ID:127) e Ponto-54(ID:125)
+           LC =        34,935228                                                                                
+
+Distância: Distância-13-3(ID:131) entre Linha-33(ID:128) e Ponto-54(ID:125)
+           LC =        34,933076                                                                                
+
+Distância: Distância-14-1(ID:136) entre Ponto-55(ID:133) e Linha-34(ID:132)
+           LC =        28,700257                                                                                
+
+Distância: Distância-14-2(ID:137) entre Ponto-56(ID:134) e Linha-34(ID:132)
+           LC =        28,696596                                                                                
+
+Distância: Distância-14-3(ID:138) entre Ponto-57(ID:135) e Linha-34(ID:132)
+           LC =        28,696596                                                                                
+
+Distância: Distância-16-1-1(ID:141) entre Linha-35(ID:140) e Ponto-61(ID:139)
+           LC =         3,992001                                                                                
+
+Distância: Distância-16-1-2(ID:144) entre Linha-37(ID:143) e Ponto-61(ID:139)
+           LC =         3,989462                                                                                
+
+Distância: Distância-16-1-3(ID:145) entre Linha-36(ID:142) e Ponto-61(ID:139)
+           LC =         3,989798                                                                                
+
+Distância: Distância-16-2-1(ID:150) entre Linha-39(ID:147) e Ponto-62(ID:146)
+           LC =         4,019634                                                                                
+
+Distância: Distância-16-2-2(ID:151) entre Linha-40(ID:148) e Ponto-62(ID:146)
+           LC =         4,018944                                                                                
+
+Distância: Distância-16-2-3(ID:152) entre Linha-41(ID:149) e Ponto-62(ID:146)
+           LC =         4,018662                                                                                
+
+Distância: Distância-22-1(ID:156) entre Linha-42(ID:153) e Ponto-57(ID:135)
+           LC =        26,205423                                                                                
+
+Distância: Distância-22-2(ID:157) entre Linha-43(ID:154) e Ponto-56(ID:134)
+           LC =        26,205837                                                                                
+
+Distância: Distância-22-3(ID:158) entre Linha-44(ID:155) e Ponto-55(ID:133)
+           LC =        26,209431                                                                                
+

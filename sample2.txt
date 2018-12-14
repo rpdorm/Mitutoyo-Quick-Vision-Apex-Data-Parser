@@ -1,0 +1,189 @@
+
+        Elemento           Atual         Nominal          Desvio        Tol.sup.        Tol.inf.        De./Fora
+                                                       (Desv TP)        (Tol.TP)                                
+Ângulo: 2-1-035(ID:3) entre Linha-2(ID:2) e Linha-1(ID:1)
+           CA =           95,554                                                                                
+
+Ângulo: 2-2-035(ID:6) entre Linha-4(ID:5) e Linha-3(ID:4)
+           CA =           95,252                                                                                
+
+Ângulo: 2-3-035(ID:9) entre Linha-6(ID:8) e Linha-5(ID:7)
+           CA =           95,440                                                                                
+
+Ângulo: 2-4-035(ID:12) entre Linha-8(ID:11) e Linha-7(ID:10)
+           CA =           94,751                                                                                
+
+Ângulo: 2-5-035(ID:15) entre Linha-10(ID:14) e Linha-9(ID:13)
+           CA =           95,480                                                                                
+
+Ângulo: 2-1-050(ID:18) entre Linha-12(ID:17) e Linha-11(ID:16)
+           CA =           93,888                                                                                
+
+Ângulo: 2-2-050(ID:21) entre Linha-14(ID:20) e Linha-13(ID:19)
+           CA =           87,434                                                                                
+
+Ângulo: 2-3-050(ID:24) entre Linha-16(ID:23) e Linha-15(ID:22)
+           CA =           92,424                                                                                
+
+Ângulo: 2-4-050(ID:27) entre Linha-18(ID:26) e Linha-17(ID:25)
+           CA =           92,387                                                                                
+
+Ângulo: 2-5-050(ID:30) entre Linha-20(ID:29) e Linha-19(ID:28)
+           CA =           91,756                                                                                
+
+Ângulo: 2-1-075(ID:33) entre Linha-22(ID:32) e Linha-21(ID:31)
+           CA =           87,580                                                                                
+
+Ângulo: 2-2-075(ID:36) entre Linha-24(ID:35) e Linha-23(ID:34)
+           CA =           87,752                                                                                
+
+Ângulo: 2-3-075(ID:39) entre Linha-26(ID:38) e Linha-25(ID:37)
+           CA =           87,495                                                                                
+
+Ângulo: 2-4-075(ID:42) entre Linha-28(ID:41) e Linha-27(ID:40)
+           CA =           86,879                                                                                
+
+Ângulo: 2-5-075(ID:45) entre Linha-30(ID:44) e Linha-29(ID:43)
+           CA =           86,609                                                                                
+
+Ângulo: 2-1-100(ID:48) entre Linha-32(ID:47) e Linha-31(ID:46)
+           CA =           86,334                                                                                
+
+Ângulo: 2-2-100(ID:51) entre Linha-34(ID:50) e Linha-33(ID:49)
+           CA =           92,340                                                                                
+
+Ângulo: 2-3-100(ID:54) entre Linha-36(ID:53) e Linha-35(ID:52)
+           CA =           87,027                                                                                
+
+Ângulo: 2-4-100(ID:57) entre Linha-38(ID:56) e Linha-37(ID:55)
+           CA =           93,773                                                                                
+
+Ângulo: 2-5-100(ID:60) entre Linha-40(ID:59) e Linha-39(ID:58)
+           CA =           87,350                                                                                
+
+
+        Elemento           Atual         Nominal          Desvio        Tol.sup.        Tol.inf.        De./Fora
+                                                       (Desv TP)        (Tol.TP)                                
+Ângulo: 2-1-035(ID:3) entre Linha-2(ID:2) e Linha-1(ID:1)
+           CA =           95,481                                                                                
+
+Ângulo: 2-2-035(ID:6) entre Linha-4(ID:5) e Linha-3(ID:4)
+           CA =           95,224                                                                                
+
+Ângulo: 2-3-035(ID:9) entre Linha-6(ID:8) e Linha-5(ID:7)
+           CA =           95,328                                                                                
+
+Ângulo: 2-4-035(ID:12) entre Linha-8(ID:11) e Linha-7(ID:10)
+           CA =           94,946                                                                                
+
+Ângulo: 2-5-035(ID:15) entre Linha-10(ID:14) e Linha-9(ID:13)
+           CA =           95,554                                                                                
+
+Ângulo: 2-1-050(ID:18) entre Linha-12(ID:17) e Linha-11(ID:16)
+           CA =           93,872                                                                                
+
+Ângulo: 2-2-050(ID:21) entre Linha-14(ID:20) e Linha-13(ID:19)
+           CA =           87,454                                                                                
+
+Ângulo: 2-3-050(ID:24) entre Linha-16(ID:23) e Linha-15(ID:22)
+           CA =           92,429                                                                                
+
+Ângulo: 2-4-050(ID:27) entre Linha-18(ID:26) e Linha-17(ID:25)
+           CA =           92,381                                                                                
+
+Ângulo: 2-5-050(ID:30) entre Linha-20(ID:29) e Linha-19(ID:28)
+           CA =           91,692                                                                                
+
+Ângulo: 2-1-075(ID:33) entre Linha-22(ID:32) e Linha-21(ID:31)
+           CA =           87,575                                                                                
+
+Ângulo: 2-2-075(ID:36) entre Linha-24(ID:35) e Linha-23(ID:34)
+           CA =           87,728                                                                                
+
+Ângulo: 2-3-075(ID:39) entre Linha-26(ID:38) e Linha-25(ID:37)
+           CA =           87,554                                                                                
+
+Ângulo: 2-4-075(ID:42) entre Linha-28(ID:41) e Linha-27(ID:40)
+           CA =           86,904                                                                                
+
+Ângulo: 2-5-075(ID:45) entre Linha-30(ID:44) e Linha-29(ID:43)
+           CA =           86,610                                                                                
+
+Ângulo: 2-1-100(ID:48) entre Linha-32(ID:47) e Linha-31(ID:46)
+           CA =           86,384                                                                                
+
+Ângulo: 2-2-100(ID:51) entre Linha-34(ID:50) e Linha-33(ID:49)
+           CA =           92,311                                                                                
+
+Ângulo: 2-3-100(ID:54) entre Linha-36(ID:53) e Linha-35(ID:52)
+           CA =           87,115                                                                                
+
+Ângulo: 2-4-100(ID:57) entre Linha-38(ID:56) e Linha-37(ID:55)
+           CA =           93,754                                                                                
+
+Ângulo: 2-5-100(ID:60) entre Linha-40(ID:59) e Linha-39(ID:58)
+           CA =           87,327                                                                                
+
+
+        Elemento           Atual         Nominal          Desvio        Tol.sup.        Tol.inf.        De./Fora
+                                                       (Desv TP)        (Tol.TP)                                
+Ângulo: 2-1-035(ID:3) entre Linha-2(ID:2) e Linha-1(ID:1)
+           CA =           95,454                                                                                
+
+Ângulo: 2-2-035(ID:6) entre Linha-4(ID:5) e Linha-3(ID:4)
+           CA =           95,259                                                                                
+
+Ângulo: 2-3-035(ID:9) entre Linha-6(ID:8) e Linha-5(ID:7)
+           CA =           95,316                                                                                
+
+Ângulo: 2-4-035(ID:12) entre Linha-8(ID:11) e Linha-7(ID:10)
+           CA =           94,959                                                                                
+
+Ângulo: 2-5-035(ID:15) entre Linha-10(ID:14) e Linha-9(ID:13)
+           CA =           95,538                                                                                
+
+Ângulo: 2-1-050(ID:18) entre Linha-12(ID:17) e Linha-11(ID:16)
+           CA =           94,060                                                                                
+
+Ângulo: 2-2-050(ID:21) entre Linha-14(ID:20) e Linha-13(ID:19)
+           CA =           87,525                                                                                
+
+Ângulo: 2-3-050(ID:24) entre Linha-16(ID:23) e Linha-15(ID:22)
+           CA =           92,394                                                                                
+
+Ângulo: 2-4-050(ID:27) entre Linha-18(ID:26) e Linha-17(ID:25)
+           CA =           92,349                                                                                
+
+Ângulo: 2-5-050(ID:30) entre Linha-20(ID:29) e Linha-19(ID:28)
+           CA =           91,684                                                                                
+
+Ângulo: 2-1-075(ID:33) entre Linha-22(ID:32) e Linha-21(ID:31)
+           CA =           87,609                                                                                
+
+Ângulo: 2-2-075(ID:36) entre Linha-24(ID:35) e Linha-23(ID:34)
+           CA =           87,732                                                                                
+
+Ângulo: 2-3-075(ID:39) entre Linha-26(ID:38) e Linha-25(ID:37)
+           CA =           87,540                                                                                
+
+Ângulo: 2-4-075(ID:42) entre Linha-28(ID:41) e Linha-27(ID:40)
+           CA =           86,923                                                                                
+
+Ângulo: 2-5-075(ID:45) entre Linha-30(ID:44) e Linha-29(ID:43)
+           CA =           86,617                                                                                
+
+Ângulo: 2-1-100(ID:48) entre Linha-32(ID:47) e Linha-31(ID:46)
+           CA =           86,381                                                                                
+
+Ângulo: 2-2-100(ID:51) entre Linha-34(ID:50) e Linha-33(ID:49)
+           CA =           92,311                                                                                
+
+Ângulo: 2-3-100(ID:54) entre Linha-36(ID:53) e Linha-35(ID:52)
+           CA =           87,096                                                                                
+
+Ângulo: 2-4-100(ID:57) entre Linha-38(ID:56) e Linha-37(ID:55)
+           CA =           93,733                                                                                
+
+Ângulo: 2-5-100(ID:60) entre Linha-40(ID:59) e Linha-39(ID:58)
+           CA =           87,366                                                                                
+

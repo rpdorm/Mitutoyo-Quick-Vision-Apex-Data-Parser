@@ -1,0 +1,363 @@
+
+        Elemento           Atual         Nominal          Desvio        Tol.sup.        Tol.inf.        De./Fora
+                                                       (Desv TP)        (Tol.TP)                                
+Distância: Distância-1_1(ID:13) entre Ponto-4_1(ID:7) e Ponto-5_1(ID:10)
+           DX =        44,158745                                                                                
+
+Distância: Distância-1_2(ID:14) entre Ponto-4_2(ID:8) e Ponto-5_2(ID:11)
+           DX =        44,159363                                                                                
+
+Distância: Distância-1_3(ID:15) entre Ponto-4_3(ID:9) e Ponto-5_3(ID:12)
+           DX =        44,159585                                                                                
+
+Distância: Distância-2A_2(ID:22) entre Ponto-13x_1(ID:16) e Ponto-9x_1(ID:19)
+           DX =        21,872862                                                                                
+
+Distância: Distância-2A_3(ID:23) entre Ponto-13x_2(ID:17) e Ponto-9x_2(ID:20)
+           DX =        21,879751                                                                                
+
+Distância: Distância-2A_1(ID:24) entre Ponto-13x_3(ID:18) e Ponto-9x_3(ID:21)
+           DX =        21,875119                                                                                
+
+Distância: Distância-2B_2(ID:31) entre Ponto-8X_1(ID:28) e Ponto-4X_1(ID:25)
+           DX =        21,824020                                                                                
+
+Distância: Distância-2B_3(ID:32) entre Ponto-8X_2(ID:29) e Ponto-4X_2(ID:26)
+           DX =        21,835428                                                                                
+
+Distância: Distância-2B_1(ID:33) entre Ponto-8X_3(ID:30) e Ponto-4X_3(ID:27)
+           DX =        21,830909                                                                                
+
+Distância: Distância-3A_1(ID:40) entre Ponto-3X_1(ID:34) e Ponto-1X_1(ID:37)
+           DX =        10,912756                                                                                
+
+Distância: Distância-3A_2(ID:41) entre Ponto-3X_2(ID:35) e Ponto-1X_2(ID:38)
+           DX =        10,914440                                                                                
+
+Distância: Distância-3A_3(ID:42) entre Ponto-3X_2(ID:35) e Ponto-1X_3(ID:39)
+           DX =        10,914605                                                                                
+
+Distância: Distância-3B_1(ID:49) entre Ponto-7X_1(ID:46) e Ponto-5X_1(ID:43)
+           DX =        10,873665                                                                                
+
+Distância: Distância-3B_2(ID:50) entre Ponto-7X_2(ID:47) e Ponto-5X_2(ID:44)
+           DX =        10,875278                                                                                
+
+Distância: Distância-3B_3(ID:51) entre Ponto-7X_3(ID:48) e Ponto-7X_2(ID:47)
+           DX =         0,000021                                                                                
+
+Distância: Distância-3C_1(ID:58) entre Ponto-12X_1(ID:52) e Ponto-10X_1(ID:55)
+           DX =        10,940003                                                                                
+
+Distância: Distância-3C_2(ID:59) entre Ponto-12X_2(ID:53) e Ponto-10X_2(ID:56)
+           DX =        10,939820                                                                                
+
+Distância: Distância-3C_3(ID:60) entre Ponto-12X_3(ID:54) e Ponto-10X_3(ID:57)
+           DX =        10,939954                                                                                
+
+Distância: Distância-3D_1(ID:67) entre Ponto-16X_1(ID:64) e Ponto-14X_1(ID:61)
+           DX =        10,998615                                                                                
+
+Distância: Distância-3D_2(ID:68) entre Ponto-16X_2(ID:65) e Ponto-14X_2(ID:62)
+           DX =        10,996885                                                                                
+
+Distância: Distância-3D_3(ID:69) entre Ponto-16X_3(ID:66) e Ponto-14X_3(ID:63)
+           DX =        10,997232                                                                                
+
+Distância: Distância-4A_1(ID:118) entre Ponto-13Y_1(ID:73) e Ponto-3Y_1(ID:82)
+           DY =        13,009214                                                                                
+
+Distância: Distância-4A_2(ID:119) entre Ponto-13Y_2(ID:74) e Ponto-3Y_2(ID:83)
+           DY =        13,009220                                                                                
+
+Distância: Distância-4A_3(ID:120) entre Ponto-13Y_3(ID:75) e Ponto-3Y_3(ID:84)
+           DY =        13,009161                                                                                
+
+Distância: Distância-4B_1(ID:121) entre Ponto-12Y_1(ID:106) e Ponto-3Y_1(ID:82)
+           DY =        12,926592                                                                                
+
+Distância: Distância-4B_2(ID:122) entre Ponto-12Y_2(ID:107) e Ponto-3Y_2(ID:83)
+           DY =        12,926351                                                                                
+
+Distância: Distância-4B_3(ID:123) entre Ponto-12Y_3(ID:108) e Ponto-3Y_3(ID:84)
+           DY =        12,926412                                                                                
+
+Distância: Distância-4C_1(ID:124) entre Ponto-11Y_1(ID:103) e Ponto-2Y_1(ID:79)
+           DY =        13,003308                                                                                
+
+Distância: Distância-4C_2(ID:125) entre Ponto-11Y_2(ID:104) e Ponto-2Y_2(ID:80)
+           DY =        13,006237                                                                                
+
+Distância: Distância-4C_3(ID:126) entre Ponto-11Y_3(ID:105) e Ponto-2Y_3(ID:81)
+           DY =        13,005825                                                                                
+
+Distância: Distância-4D_1(ID:127) entre Ponto-10Y_1(ID:100) e Ponto-1Y_1(ID:76)
+           DY =        12,910285                                                                                
+
+Distância: Distância-4D_2(ID:128) entre Ponto-10Y_2(ID:101) e Ponto-1Y_2(ID:77)
+           DY =        12,912497                                                                                
+
+Distância: Distância-4D_3(ID:129) entre Ponto-10Y_3(ID:102) e Ponto-1Y_3(ID:78)
+           DY =        12,912133                                                                                
+
+Distância: Distância-4E_1(ID:130) entre Ponto-9Y_1(ID:97) e Ponto-1Y_1(ID:76)
+           DY =        13,029912                                                                                
+
+Distância: Distância-4E_2(ID:131) entre Ponto-9Y_2(ID:98) e Ponto-1Y_2(ID:77)
+           DY =        13,030415                                                                                
+
+Distância: Distância-4E_3(ID:132) entre Ponto-9Y_3(ID:99) e Ponto-1Y_3(ID:78)
+           DY =        13,030255                                                                                
+
+Distância: Distância-4F_1(ID:133) entre Ponto-16Y_1(ID:115) e Ponto-8Y_1(ID:70)
+           DY =        12,938263                                                                                
+
+Distância: Distância-4F_2(ID:134) entre Ponto-16Y_2(ID:116) e Ponto-8Y_2(ID:71)
+           DY =        12,938330                                                                                
+
+Distância: Distância-4F_3(ID:135) entre Ponto-16Y_3(ID:117) e Ponto-8Y_3(ID:72)
+           DY =        12,938706                                                                                
+
+Distância: Distância-4G_1(ID:136) entre Ponto-16Y_1(ID:115) e Ponto-7Y_1(ID:94)
+           DY =        13,009515                                                                                
+
+Distância: Distância-4G_2(ID:137) entre Ponto-16Y_2(ID:116) e Ponto-7Y_2(ID:95)
+           DY =        13,009205                                                                                
+
+Distância: Distância-4G_3(ID:138) entre Ponto-16Y_3(ID:117) e Ponto-7Y_3(ID:96)
+           DY =        13,009703                                                                                
+
+Distância: Distância-4H_1(ID:139) entre Ponto-15Y_1(ID:112) e Ponto-6Y_1(ID:91)
+           DY =        12,994328                                                                                
+
+Distância: Distância-4H_2(ID:140) entre Ponto-15Y_2(ID:113) e Ponto-6Y_2(ID:92)
+           DY =        12,994586                                                                                
+
+Distância: Distância-4H_3(ID:141) entre Ponto-15Y_3(ID:114) e Ponto-6Y_3(ID:93)
+           DY =        12,994499                                                                                
+
+Distância: Distância-4I_1(ID:142) entre Ponto-14Y_1(ID:109) e Ponto-5Y_1(ID:88)
+           DY =        12,987933                                                                                
+
+Distância: Distância-4I_2(ID:143) entre Ponto-14Y_2(ID:110) e Ponto-5Y_2(ID:89)
+           DY =        12,987112                                                                                
+
+Distância: Distância-4I_3(ID:144) entre Ponto-14Y_3(ID:111) e Ponto-5Y_3(ID:90)
+           DY =        12,987582                                                                                
+
+Distância: Distância-4J_1(ID:145) entre Ponto-14Y_1(ID:109) e Ponto-4Y_1(ID:85)
+           DY =        12,928798                                                                                
+
+Distância: Distância-4J_2(ID:146) entre Ponto-14Y_2(ID:110) e Ponto-4Y_2(ID:86)
+           DY =        12,928504                                                                                
+
+Distância: Distância-4J_3(ID:147) entre Ponto-14Y_3(ID:111) e Ponto-4Y_3(ID:87)
+           DY =        12,928891                                                                                
+
+Distância: Distância-5A_1(ID:148) entre Ponto-13Y_1(ID:73) e Ponto-8Y_1(ID:70)
+           DY =         6,452939                                                                                
+
+Distância: Distância-5A_2(ID:149) entre Ponto-13Y_2(ID:74) e Ponto-8Y_2(ID:71)
+           DY =         6,453297                                                                                
+
+Distância: Distância-5A_3(ID:150) entre Ponto-13Y_3(ID:75) e Ponto-8Y_3(ID:72)
+           DY =         6,453256                                                                                
+
+Distância: Distância-5B_1(ID:151) entre Ponto-12Y_1(ID:106) e Ponto-7Y_1(ID:94)
+           DY =         6,441570                                                                                
+
+Distância: Distância-5B_2(ID:152) entre Ponto-12Y_2(ID:107) e Ponto-7Y_2(ID:95)
+           DY =         6,441304                                                                                
+
+Distância: Distância-5B_3(ID:153) entre Ponto-12Y_3(ID:108) e Ponto-7Y_3(ID:96)
+           DY =         6,441505                                                                                
+
+Distância: Distância-5C_1(ID:154) entre Ponto-11Y_1(ID:103) e Ponto-6Y_1(ID:91)
+           DY =         6,494817                                                                                
+
+Distância: Distância-5C_2(ID:155) entre Ponto-11Y_2(ID:104) e Ponto-6Y_2(ID:92)
+           DY =         6,497628                                                                                
+
+Distância: Distância-5C_3(ID:156) entre Ponto-11Y_3(ID:105) e Ponto-6Y_3(ID:93)
+           DY =         6,497325                                                                                
+
+Distância: Distância-5D_1(ID:157) entre Ponto-10Y_1(ID:100) e Ponto-5Y_1(ID:88)
+           DY =         6,387037                                                                                
+
+Distância: Distância-5D_2(ID:158) entre Ponto-10Y_2(ID:101) e Ponto-5Y_2(ID:89)
+           DY =         6,387744                                                                                
+
+Distância: Distância-5D_3(ID:159) entre Ponto-10Y_3(ID:102) e Ponto-5Y_3(ID:90)
+           DY =         6,387814                                                                                
+
+Distância: Distância-5E_1(ID:160) entre Ponto-9Y_1(ID:97) e Ponto-4Y_1(ID:85)
+           DY =         6,447529                                                                                
+
+Distância: Distância-5E_2(ID:161) entre Ponto-9Y_2(ID:98) e Ponto-4Y_2(ID:86)
+           DY =         6,447053                                                                                
+
+Distância: Distância-5E_3(ID:162) entre Ponto-9Y_3(ID:99) e Ponto-4Y_3(ID:87)
+           DY =         6,447246                                                                                
+
+Distância: Distância-6A_1(ID:163) entre Ponto-8Y_1(ID:70) e Ponto-3Y_1(ID:82)
+           DY =         6,556275                                                                                
+
+Distância: Distância-6A_2(ID:164) entre Ponto-8Y_2(ID:71) e Ponto-3Y_2(ID:83)
+           DY =         6,555923                                                                                
+
+Distância: Distância-6A_3(ID:165) entre Ponto-8Y_3(ID:72) e Ponto-3Y_3(ID:84)
+           DY =         6,555905                                                                                
+
+Distância: Distância-6B_1(ID:166) entre Ponto-6Y_1(ID:91) e Ponto-3Y_1(ID:82)
+           DY =         6,478236                                                                                
+
+Distância: Distância-6B_2(ID:167) entre Ponto-6Y_2(ID:92) e Ponto-3Y_2(ID:83)
+           DY =         6,478262                                                                                
+
+Distância: Distância-6B_3(ID:168) entre Ponto-6Y_3(ID:93) e Ponto-3Y_3(ID:84)
+           DY =         6,478240                                                                                
+
+Distância: Distância-6C_1(ID:169) entre Ponto-6Y_1(ID:91) e Ponto-2Y_1(ID:79)
+           DY =         6,508491                                                                                
+
+Distância: Distância-6C_2(ID:170) entre Ponto-6Y_2(ID:92) e Ponto-2Y_2(ID:80)
+           DY =         6,508609                                                                                
+
+Distância: Distância-6C_3(ID:171) entre Ponto-6Y_3(ID:93) e Ponto-2Y_3(ID:81)
+           DY =         6,508499                                                                                
+
+Distância: Distância-6D_1(ID:172) entre Ponto-5Y_1(ID:88) e Ponto-1Y_1(ID:76)
+           DY =         6,523248                                                                                
+
+Distância: Distância-6D_2(ID:173) entre Ponto-5Y_2(ID:89) e Ponto-1Y_2(ID:77)
+           DY =         6,524754                                                                                
+
+Distância: Distância-6D_3(ID:174) entre Ponto-5Y_3(ID:90) e Ponto-1Y_3(ID:78)
+           DY =         6,524318                                                                                
+
+Distância: Distância-6E_1(ID:175) entre Ponto-4Y_1(ID:85) e Ponto-1Y_1(ID:76)
+           DY =         6,582383                                                                                
+
+Distância: Distância-6E_2(ID:176) entre Ponto-4Y_2(ID:86) e Ponto-1Y_2(ID:77)
+           DY =         6,583362                                                                                
+
+Distância: Distância-6E_3(ID:177) entre Ponto-4Y_3(ID:87) e Ponto-1Y_3(ID:78)
+           DY =         6,583009                                                                                
+
+Distância: Distância-6F_1(ID:178) entre Ponto-16Y_1(ID:115) e Ponto-13Y_1(ID:73)
+           DY =         6,485323                                                                                
+
+Distância: Distância-6F_2(ID:179) entre Ponto-16Y_2(ID:116) e Ponto-13Y_2(ID:74)
+           DY =         6,485033                                                                                
+
+Distância: Distância-6F_3(ID:180) entre Ponto-16Y_3(ID:117) e Ponto-13Y_3(ID:75)
+           DY =         6,485450                                                                                
+
+Distância: Distância-6G_1(ID:181) entre Ponto-16X_1(ID:64) e Ponto-12Y_1(ID:106)
+           DY =         7,221293                                                                                
+
+Distância: Distância-6G_2(ID:182) entre Ponto-16X_2(ID:65) e Ponto-12Y_2(ID:107)
+           DY =         7,221448                                                                                
+
+Distância: Distância-6G_3(ID:183) entre Ponto-16X_3(ID:66) e Ponto-12Y_3(ID:108)
+           DY =         7,221488                                                                                
+
+Distância: Distância-6H_1(ID:184) entre Ponto-15Y_1(ID:112) e Ponto-11Y_1(ID:103)
+           DY =         6,499512                                                                                
+
+Distância: Distância-6H_2(ID:185) entre Ponto-15Y_2(ID:113) e Ponto-11Y_2(ID:104)
+           DY =         6,496958                                                                                
+
+Distância: Distância-6H_3(ID:186) entre Ponto-15Y_3(ID:114) e Ponto-11Y_3(ID:105)
+           DY =         6,497174                                                                                
+
+Distância: Distância-6I_1(ID:187) entre Ponto-14Y_1(ID:109) e Ponto-10Y_1(ID:100)
+           DY =         6,600896                                                                                
+
+Distância: Distância-6I_2(ID:188) entre Ponto-14Y_2(ID:110) e Ponto-10Y_2(ID:101)
+           DY =         6,599368                                                                                
+
+Distância: Distância-6I_3(ID:189) entre Ponto-14Y_3(ID:111) e Ponto-10Y_3(ID:102)
+           DY =         6,599768                                                                                
+
+Distância: Distância-6J_1(ID:190) entre Ponto-14Y_1(ID:109) e Ponto-9Y_1(ID:97)
+           DY =         6,481269                                                                                
+
+Distância: Distância-6J_2(ID:191) entre Ponto-14Y_2(ID:110) e Ponto-9Y_2(ID:98)
+           DY =         6,481451                                                                                
+
+Distância: Distância-6J_3(ID:192) entre Ponto-14Y_3(ID:111) e Ponto-9Y_3(ID:99)
+           DY =         6,481646                                                                                
+
+Distância: Distância-7A_1(ID:196) entre Linha-8(ID:195) e Ponto-13Y_1(ID:73)
+           LC =         0,347750                                                                                
+
+Distância: Distância-7A_2(ID:197) entre Linha-8(ID:195) e Ponto-13Y_2(ID:74)
+           LC =         0,347838                                                                                
+
+Distância: Distância-7A_3(ID:198) entre Linha-8(ID:195) e Ponto-13Y_3(ID:75)
+           LC =         0,347673                                                                                
+
+Distância: Distância-7B_1(ID:199) entre Linha-8(ID:195) e Ponto-12Y_1(ID:106)
+           LC =         0,318670                                                                                
+
+Distância: Distância-7B_2(ID:200) entre Linha-8(ID:195) e Ponto-12Y_2(ID:107)
+           LC =         0,318513                                                                                
+
+Distância: Distância-7B_3(ID:201) entre Linha-8(ID:195) e Ponto-12Y_3(ID:108)
+           LC =         0,318468                                                                                
+
+Distância: Distância-7C_1(ID:202) entre Linha-8(ID:195) e Ponto-11Y_1(ID:103)
+           LC =         0,418400                                                                                
+
+Distância: Distância-7C_2(ID:203) entre Linha-8(ID:195) e Ponto-11Y_2(ID:104)
+           LC =         0,421321                                                                                
+
+Distância: Distância-7C_3(ID:204) entre Linha-8(ID:195) e Ponto-11Y_3(ID:105)
+           LC =         0,420889                                                                                
+
+Distância: Distância-7D_1(ID:205) entre Linha-8(ID:195) e Ponto-10Y_1(ID:100)
+           LC =         0,371880                                                                                
+
+Distância: Distância-7D_2(ID:206) entre Linha-8(ID:195) e Ponto-10Y_2(ID:101)
+           LC =         0,373117                                                                                
+
+Distância: Distância-7D_3(ID:207) entre Linha-8(ID:195) e Ponto-10Y_3(ID:102)
+           LC =         0,372848                                                                                
+
+Distância: Distância-7E_1(ID:208) entre Linha-8(ID:195) e Ponto-9Y_1(ID:97)
+           LC =         0,544801                                                                                
+
+Distância: Distância-7E_2(ID:209) entre Linha-8(ID:195) e Ponto-9Y_2(ID:98)
+           LC =         0,544353                                                                                
+
+Distância: Distância-7E_3(ID:210) entre Linha-8(ID:195) e Ponto-9Y_3(ID:99)
+           LC =         0,544289                                                                                
+
+Distância: Distância-9_1(ID:218) entre Ponto-47_1(ID:215) e Ponto-46_1(ID:212)
+           DY =         2,084351                                                                                
+
+Distância: Distância-9_2(ID:219) entre Ponto-47_2(ID:216) e Ponto-46_2(ID:213)
+           DY =         2,080164                                                                                
+
+Distância: Distância-9_3(ID:220) entre Ponto-47_3(ID:217) e Ponto-46_3(ID:214)
+           DY =         2,080531                                                                                
+
+Distância: Distância-10_1(ID:227) entre Ponto-49_1(ID:224) e Ponto-48_1(ID:221)
+           DY =         4,459267                                                                                
+
+Distância: Distância-10_2(ID:228) entre Ponto-49_2(ID:225) e Ponto-48_2(ID:222)
+           DY =         4,450478                                                                                
+
+Distância: Distância-10_3(ID:229) entre Ponto-49_3(ID:226) e Ponto-48_3(ID:223)
+           DY =         4,462558                                                                                
+
+Distância: Distância-11_1(ID:236) entre Ponto-51_1(ID:230) e Ponto-52_1(ID:233)
+           DX =        40,840655                                                                                
+
+Distância: Distância-11_2(ID:237) entre Ponto-51_2(ID:231) e Ponto-52_2(ID:234)
+           DX =        40,830912                                                                                
+
+Distância: Distância-11_3(ID:238) entre Ponto-51_3(ID:232) e Ponto-52_3(ID:235)
+           DX =        40,830569                                                                                
+

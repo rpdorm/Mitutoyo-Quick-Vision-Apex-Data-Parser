@@ -1,0 +1,27 @@
+html {
+	width:100%;
+	padding:10px;
+}
+body { padding:10px; }
+nav { margin-bottom:10px; }
+div { display:inline-block; overflow:hidden; float:left; }
+#changelog, #error, #options { display:none; }
+.alert {
+	width:100%;
+}
+#input { margin-right:10px; }
+#output { max-width:335px; }
+#tools { float:none; }
+.card-header { font-size:20px; }
+.card-body {height:400px;}
+.btn { margin-right:5px; }
+
+table {
+	display:block;
+	overflow-y:scroll;
+	max-height:370px;
+	text-align:center;
+}
+thead { font-weight:bold; text-align:center; }
+th, td { width:160px; text-align:center; }
+th { padding:4px; }
